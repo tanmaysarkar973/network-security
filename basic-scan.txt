@@ -1,0 +1,9 @@
+# Nmap 7.98 scan initiated Fri Sep 25 21:05:22 2026 as: /usr/lib/nmap/nmap --privileged -oN /home/tanmay/Week4-Cybersecurity/Nmap/basic-scan.txt 192.168.86.136
+Nmap scan report for 192.168.86.136
+Host is up (0.0012s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 00:0C:29:A7:50:7F (VMware)
+
+# Nmap done at Fri Sep 25 21:05:26 2026 -- 1 IP address (1 host up) scanned in 3.96 seconds
